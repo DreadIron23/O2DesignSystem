@@ -14,8 +14,8 @@ object DefaultPasswordValidation {
 val PASSWORD_ERROR_MESSAGE =
     """
         Minimum of 8 characters
-        Et least one capital character
-        Et least one number
-        Et least one special character (? = # / %)
+        At least one capital character
+        At least one number
+        At least one special character (? = # / %)
     """
         .trimIndent()
