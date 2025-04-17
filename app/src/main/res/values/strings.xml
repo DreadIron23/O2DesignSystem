@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">O2DesignSystem</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_optional">(Required)</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_label">Password</string>
+    <string name="password_optional">(Required)</string>
+    <string name="password_hint">Enter your password</string>
+</resources>
